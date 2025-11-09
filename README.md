@@ -5,7 +5,7 @@
 
 ### 📄 Resume  
 <p align="left">
-  <a href="sandbox:/mnt/data/Mahalingam_Resume.pdf" target="_blank">
+  <a href="./Resume(4).pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
