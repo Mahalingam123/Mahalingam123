@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Data Structures & Algorithms**
 - 💬 Ask me about **Java / Backend / Web Development**
 - 📫 Reach me: **mahalingam13812@gmail.com**
-- 🎯 Goal: **To become Software Engineer in Product Based Company (FANG Goal)**
+- 🎯 Goal: **To become Software Engineer in Product Based Company **
 
 ---
 
